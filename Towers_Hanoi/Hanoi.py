@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-n = 5
+n = input("input number of rings for Hanoi: \n")
 
 array = []
 def TowerOfHanoi(n , from_rod, to_rod, aux_rod): 
