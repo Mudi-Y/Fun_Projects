@@ -9,3 +9,8 @@ second row: (row, column) coordinate for the start position
 third and beyond: game board with initial values. "." represents an empty square, intiger values represent heights of crate stacks at that location, and "\*" represents the goal. 
 
 If the goal can be reached from the initial state, the game board at the end of the game will be displayed, and the sequence of instructions in the form of the coordinate and crate stack tipping directions will be printed. If the goal can not be reached, the program will output "no solution".
+
+
+
+![tipover](https://thinkfun.com/wp-content/uploads/2004/09/tipover-howtoplay.jpg)
+
